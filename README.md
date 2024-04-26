@@ -11,3 +11,5 @@ V.15
 Vi har försökt slutföra style guiden och göra en wireframe och bestämma allt vi ska ha med och hur sidan ska se ut.
 V.16
 Idag har vi gjort klart vårat filsystem och sett till så att alla kan skriva och att alla kan se alla ändringar. Vi har också lagt in bootstrap och sett till så att det fungerar och nästa vecka ska vi börja skriva mer html kod. 
+V.17
+Idag har vi skapat en gridstruktur och lagt in cards på produktsidan. Vi har också bestämt hur allt ska se ut och lagt in text. Vi har också fått allt att fungera med hur vi ska kunna se varandras ändringar. 
