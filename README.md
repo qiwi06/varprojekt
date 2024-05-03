@@ -13,3 +13,5 @@ V.16
 Idag har vi gjort klart vårat filsystem och sett till så att alla kan skriva och att alla kan se alla ändringar. Vi har också lagt in bootstrap och sett till så att det fungerar och nästa vecka ska vi börja skriva mer html kod. 
 V.17
 Idag har vi skapat en gridstruktur och lagt in cards på produktsidan. Vi har också bestämt hur allt ska se ut och lagt in text. Vi har också fått allt att fungera med hur vi ska kunna se varandras ändringar. 
+V.18
+Idag har jag gjort loggor som vi ska ha till våra länkar i footern. Vi har också länkat in alla sociala medier till footern och så hade vi genomgång på hur vi ska ladda upp hemsidan. Jag la också in bilder till "Om oss".
